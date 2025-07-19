@@ -100,3 +100,14 @@ If you have questions or want to collaborate, feel free to reach out via:
 
 - **LinkedIn**: [(https://www.linkedin.com/in/gideon-aleji-4b7073354/)]
 - **Email**: [alejigideonabidemi@gmail.com]
+
+
+### Dashboard Screenshots
+
+<img width="1305" height="748" alt="Screenshot 2025-07-19 141256" src="https://github.com/user-attachments/assets/b74adb13-22b0-4cb0-8828-84dadd4b2d6e" />
+<img width="1315" height="744" alt="Screenshot 2025-07-19 141436" src="https://github.com/user-attachments/assets/2ebfc188-93b7-48fd-a685-53c3ad833a65" />
+<img width="1323" height="747" alt="Screenshot 2025-07-19 141508" src="https://github.com/user-attachments/assets/b43cab7b-8b5d-4b00-b986-079777687a87" />
+<img width="1307" height="744" alt="Screenshot 2025-07-19 141543" src="https://github.com/user-attachments/assets/40c5688c-8a4d-4c8a-8f83-c6f153699348" />
+<img width="1301" height="745" alt="Screenshot 2025-07-19 141609" src="https://github.com/user-attachments/assets/dacfe3bc-aa05-4dea-8a7e-eae84a9c2891" />
+
+
